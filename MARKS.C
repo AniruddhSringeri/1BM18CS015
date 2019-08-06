@@ -20,6 +20,7 @@ scanf("%f",&stud1.project);
 
 
 printf("The marks list is as follows:\nDS: %f\nCOA: %f\nLD: %f\nCIPE: %f\nMP: %f\nDM: %f\nJava: %f\nProject: %f",stud1.ds,stud1.coa,stud1.ld,stud1.cipe,stud1.mp,stud1.dm,stud1.java,stud1.project);
+getch();  
 }
 
 
