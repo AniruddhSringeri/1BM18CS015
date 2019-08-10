@@ -25,7 +25,7 @@ int main()
 
 int Validate(struct student s)
 {
-    if ((s.age>20)&&(s.marks<=0)&&(s.marks<=100)) return 1;
+    if ((s.age>20)&&(s.marks>=0)&&(s.marks<=100)) return 1;
     else return 0;
 }
 
