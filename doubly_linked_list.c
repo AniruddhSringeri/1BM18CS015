@@ -172,4 +172,5 @@ int main()
             default: printf("Invalid input :(\n");
         }
     }while(1);
+    return 0;
 }
